@@ -110,6 +110,9 @@ It is also a way to combine programming with a personal appreciation for RM and 
 
 No license has been specified yet. If you want others to use, modify, or redistribute this project, consider adding an appropriate open-source license.
 
+## Disclaimer
+
+This is an unofficial, non-commercial fan-inspired coding project created for educational and creative purposes. It is not affiliated with, endorsed by, or sponsored by RM, BTS, or their management. All applicable third-party names and trademarks belong to their respective owners.
 ---
 
 *Made with Python, Pygame, and a little Namjoon-inspired digital rain. 💚*
