@@ -1,7 +1,8 @@
 # rm-matrix
 matrix-style particle animation inspired by RM (Kim Namjoon) of BTS, built with Python and Pygame.
 
-Inspired by the iconic digital aesthetic of *The Matrix* and dedicated to RM (Kim Namjoon) of BTS, this project combines random character generation, particle positioning, and time-based animation to create a minimalist visual effect.
+## Disclaimer
+This is an unofficial, non-commercial fan-inspired coding project created for educational and creative purposes. It is not affiliated with, endorsed by or sponsored by RM, BTS or their management. All applicable third-party names and trademarks belong to their respective owners.
 
 ## Features
 
@@ -100,21 +101,12 @@ Future enhancements could include:
 - Allowing users to customize the colors, text, and animation timing.
 - Improving the particle movement so the RM shape remains stable after forming.
 
-## Purpose
-
-This project is a small creative coding experiment exploring real-time graphics, randomisation, particle animation and visual effects with Python and Pygame.
-
-It is also a way to combine programming with a personal appreciation for RM and the distinctive digital aesthetic of *The Matrix*.
-
 ## License
 
 No license has been specified yet. If you want others to use, modify, or redistribute this project, consider adding an appropriate open-source license.
 
-## Disclaimer
-
-This is an unofficial, non-commercial fan-inspired coding project created for educational and creative purposes. It is not affiliated with, endorsed by, or sponsored by RM, BTS, or their management. All applicable third-party names and trademarks belong to their respective owners.
 ---
 
-*Made with Python, Pygame, and a little Namjoon-inspired digital rain. 💚*
+*Made with Python, Pygame and namjooning. 💚*
 
 
